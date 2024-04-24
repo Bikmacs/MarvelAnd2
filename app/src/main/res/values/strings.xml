@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bikmacs_pr22</string>
+    <string name="e_mail">E-mail</string>
+    <string name="pass">Пароль</string>
+    <string name="name">Воланд Иванов</string>
+    <string name="emailUser">voland.ivanov@gmail.com</string>
+    <string name="redactor">Изменить</string>
+</resources>
