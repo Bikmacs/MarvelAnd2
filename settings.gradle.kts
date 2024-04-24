@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Yalymov Petr PR-22"
+rootProject.name = "Bikmacs"
 include(":app")
  
